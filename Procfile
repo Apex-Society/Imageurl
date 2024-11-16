@@ -1,2 +1,2 @@
-web: python3 Uploader
-worker: python3 Uploader
+web: python3 bot.py
+worker: python3 bot.py
