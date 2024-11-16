@@ -16,7 +16,7 @@ Imageu = Client(
     name = "imageurl",
     api_id = 19042248,
     api_hash = "a1d443cb79941a89c493f22abf4f84cb",
-    bot_token = "6774719196:AAFApRhTE_BqSsK51Mqt7fhQOu1UYqfUNyU"
+    bot_token = "7749319524:AAFy5ulFuIpbBoiHfO7ggHO2Ck86z1t8Rrk"
 )
 
 @Imageu.on_message(filters.command("start"))
