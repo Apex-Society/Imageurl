@@ -53,7 +53,7 @@ async def video(client, message):
 
 
 
-@Siva.on_message(filters.incoming & filters.animation)
+@Imageu.on_message(filters.incoming & filters.animation)
 async def animation(client, message):
     msg = await message.reply("ɢᴇᴛᴛɪɴɢ ʟɪɴᴋ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ ᴀ ғᴇᴡ sᴇᴄᴏɴᴅs ...")
     
