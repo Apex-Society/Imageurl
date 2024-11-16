@@ -1,0 +1,3 @@
+pyrogram
+tgcrypto
+Mangandi==1.0.6
